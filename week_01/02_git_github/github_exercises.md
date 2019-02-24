@@ -19,7 +19,7 @@ git repository on your local machine:
 - in your CodingNomads folder, create new folder git_practice
 - inside git_practice:
     - initialize folder as a git folder (make sure you are in the
-    correct folder when initializing)
+    correct folder when initializing) 
     - make new file
     - add file
     - commit file
