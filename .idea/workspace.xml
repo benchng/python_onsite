@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/PycharmProjects/crashcourse/02_26_tues/dictionaries.py" description="print(recipe['apples'])" line="12" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1ea744-42cd-423c-8261-1a9587c15d77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-onsite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/01_str_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/02_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/03_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/04_first_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/05_mixcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/06_docstring_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/04_strings/07_caesar_cypher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/05_lists/Exercise_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/05_lists/Exercise_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_01/05_lists/Exercise_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/06_tuples/01_make_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/08_dictionaries/09_01_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/08_dictionaries/09_03_count_cases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/mini_projects/01_lyrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/mini_projects/02_bottles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_02/mini_projects/03_leap_year_stack_diagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_01/03_basics_variables/06_population.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_01/03_basics_variables/06_population.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +44,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week_01/05_lists/Exercise_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_01_duplicates.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -36,11 +83,25 @@
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/01_calculator.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/02_print_pi.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/04_rectangle.py" />
-        <option value="$PROJECT_DIR$/week_01/03_basics_variables/06_population.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/07_conversion.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/08_trip_cost.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/03_circumference.py" />
         <option value="$PROJECT_DIR$/week_01/03_basics_variables/05_miles_runner.py" />
+        <option value="$PROJECT_DIR$/week_01/03_basics_variables/06_population.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/04_first_vowel.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/05_mixcase.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/06_docstring_quiz.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/07_caesar_cypher.py" />
+        <option value="$PROJECT_DIR$/week_02/06_tuples/01_make_tuples.py" />
+        <option value="$PROJECT_DIR$/week_01/05_lists/Exercise_03.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/03_palindrome.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/01_str_methods.py" />
+        <option value="$PROJECT_DIR$/week_01/04_strings/02_count.py" />
+        <option value="$PROJECT_DIR$/week_01/05_lists/Exercise_01.py" />
+        <option value="$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py" />
+        <option value="$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py" />
+        <option value="$PROJECT_DIR$/week_02/08_dictionaries/09_01_duplicates.py" />
+        <option value="$PROJECT_DIR$/week_01/05_lists/Exercise_02.py" />
       </list>
     </option>
   </component>
@@ -55,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,13 +131,59 @@
             </path>
             <path>
               <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_01" type="462c0819:PsiDirectoryNode" />
+              <item name="03_basics_variables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_01" type="462c0819:PsiDirectoryNode" />
+              <item name="04_strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_01" type="462c0819:PsiDirectoryNode" />
+              <item name="05_lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="06_tuples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="07_conditionals_loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="08_dictionaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="mini_projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05_miles_runner">
-    <configuration name="04_rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercise_02">
+    <configuration name="01_make_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-onsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/03_basics_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_02/06_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/03_basics_variables/04_rectangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_02/06_tuples/01_make_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_miles_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09_01_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-onsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/03_basics_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_02/08_dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/03_basics_variables/05_miles_runner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_02/08_dictionaries/09_01_duplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_population" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-onsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/03_basics_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/05_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/03_basics_variables/06_population.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/05_lists/Exercise_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-onsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/03_basics_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/05_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/03_basics_variables/07_conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/05_lists/Exercise_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_trip_cost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-onsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/03_basics_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_01/05_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/03_basics_variables/08_trip_cost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_01/05_lists/Exercise_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_miles_runner" />
-        <item itemvalue="Python.08_trip_cost" />
-        <item itemvalue="Python.07_conversion" />
-        <item itemvalue="Python.06_population" />
-        <item itemvalue="Python.04_rectangle" />
+        <item itemvalue="Python.Exercise_02" />
+        <item itemvalue="Python.09_01_duplicates" />
+        <item itemvalue="Python.Exercise_03" />
+        <item itemvalue="Python.01_make_tuples" />
+        <item itemvalue="Python.Exercise_01" />
       </list>
     </recent_temporary>
   </component>
@@ -223,9 +331,46 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_03_palindrome - 2019.02.26 at 12h 37m 53s.xml">
+      <configuration name="Doctests in 03_palindrome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_03_palindrome - 2019.02.26 at 12h 37m 56s.xml">
+      <configuration name="Doctests in 03_palindrome" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1663" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929742" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290398" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290398" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3290398" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -235,15 +380,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39929742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290398" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3290398" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -304,6 +449,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/08_trip_cost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/07_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/06_population.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/07_caesar_cypher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/06_docstring_quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/01_str_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/02_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/04_first_vowel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/05_mixcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/04_strings/03_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/06_tuples/01_make_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/mini_projects/01_lyrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/mini_projects/03_leap_year_stack_diagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_03_count_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/01_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/04_rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -325,38 +587,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/06_population.py">
+    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/02_print_pi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="173" lean-forward="true" selection-start-line="27" selection-start-column="173" selection-end-line="28" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/07_conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/08_trip_cost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/01_calculator.py">
+    <entry file="file://$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/02_print_pi.py">
+    <entry file="file://$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_09.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/05_lists/Exercise_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/05_lists/Exercise_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_01_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_01/05_lists/Exercise_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
