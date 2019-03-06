@@ -10,21 +10,35 @@ list_one = [0, 4, 6, 18, 25, 42, 100]
 list_two = [1, 4, 9, 24, 42, 88, 99, 100]
 
 
-'''
-def Remove(duplicate):
-    final_list = []
-    for num in duplicate:
-        if num not in final_list:
-            final_list.append(num)
-    return final_list
-
-duplicate = [2, 4, 10, 20, 5, 2, 20, 4]
-print(Remove(duplicate))
-'''
-
-#print(set(list_one) and set(list_two))
-
 #4, 42, 100
 #0, 1, 6, 9, 18, 24, 25, 88, 99
+
+
+duplicate_list = []
+
+
+for item in list_one:
+    if item in list_two:
+        duplicate_list.append(item)
+
+#print(duplicate_list)
+
+
+merge_list = list_two + list_one
+
+#print(merge_list)
+
+s = set(merge_list)
+
+#print(s)
+
+for i in duplicate_list:
+    if i in s:
+        s.remove(i)
+
+print(duplicate_list)
+print(s)
+
+
 
 

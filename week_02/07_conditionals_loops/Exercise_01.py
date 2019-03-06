@@ -6,3 +6,12 @@ Print the result.
 NOTE: We will be using the input() function. This is demonstrated below.
 
 '''
+
+num = int(input("Please enter a number"))
+
+if num % 2 == 0:
+    print("your number is even")
+else:
+    print("your number is odd")
+
+
