@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d1ea744-42cd-423c-8261-1a9587c15d77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/05_lists/Exercise_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_01/05_lists/Exercise_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/09_functions/03_dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/09_functions/03_dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/10_classes_objects_methods/01_try_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/10_classes_objects_methods/01_try_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/10_classes_objects_methods/02_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_02/10_classes_objects_methods/02_points.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +15,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exams/classes_2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exams/classes.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exams/testing_units.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exams/inheritance.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exams/files_exceptions.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week_03/01_files/00_long_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -42,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -51,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_03_count_cases.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -126,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,37 +157,13 @@
             <path>
               <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="week_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="06_tuples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="07_conditionals_loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="08_dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="09_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
-              <item name="week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="10_classes_objects_methods" type="462c0819:PsiDirectoryNode" />
+              <item name="week_03" type="462c0819:PsiDirectoryNode" />
+              <item name="01_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,7 +362,7 @@
     <frame x="17" y="23" width="1663" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,7 +372,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290398" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3290398" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3290398" />
@@ -421,47 +417,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week_01/00_intro/02_big_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/00_intro/01_coding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/01_CLI/cli_exercises.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/02_git_github/github_exercises.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/07_conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week_01/03_basics_variables/01_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -591,9 +546,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/mini_projects/lyrics.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/mini_projects/lyrics.py" />
     <entry file="file://$PROJECT_DIR$/week_01/05_lists/Exercise_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -736,27 +689,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_03_count_cases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week_02/09_functions/01_function_calls.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/06_tuples/02_word_frequencies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/exams/classes_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/08_dictionaries/09_02_combine_dicts.py">
+    <entry file="file://$PROJECT_DIR$/exams/classes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exams/testing_units.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exams/inheritance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exams/files_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_03/01_files/00_long_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
