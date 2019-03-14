@@ -19,114 +19,253 @@ Ok that's all, now let's get to practicing!! :)
 
 - Using the command line, how do you:
     - change directories?
+        cd directory
+        cd ../
     - list the contents of a folder?
+        ls
+        ls -al
     - print the path of the current directory?
+        pwd
     - move a file from one location to the another?
+        mv <file>  <directory>
+        mv <filename> <directory>/<filename2>
     - copy a file from one location to another?
+        cp <filename> <directory/filename2>
     - create a file?
+        touch <filename.txt>
     - create a folder?
+        mkdir <foldername>
     - delete a file?
+        rm <file.txt>
     - delete a folder?
+        rmdir 'foldername'
     - delete a folder that contains a file?
+        rm -rf 'foldername'
     - print the contents of a file?
+        cat 'filename'
     - edit the contents of a file?
+        echo 'content' 'filename' (overwrites)
+        echo 'content' <filename> (append)
+        vim <filename>
+        i - for insert
+        :wq
 
 - Answer the following question about Git and Github:
     - What is a branch?
+        a branch is referenced to a starting point which can be split into different versions
     - What is a remote?
+        remote are the locations to where the file is located
+        somewhere in the clouds
 
 - What are the commands to do the following?
     - initialize a git repository
+        git init
     - clone a repository from Github
+        git clone (respository of the URL)
     - add a file to the staging area
+        git add file (or . for everything)
     - make a commit
+        git commit -m "commit message"
     - push to Github
+        git push remote branch
     - pull from Github
+        git pull remote branch
     - see the names of the branches
+        git branch
     - see the names of the remotes
+        git remote -v
     - add a new remote
+        git remote add <remote_name> <URL>
 
 - Describe a variable and a value through their relationship.
+    var_name
 
 - What are five common data types in Python?
+    str
+    float
+    bool
+    int
+    list
+    tuple
+    dict
+    set
 
 - What is the difference between an expression and a statement?
+    _**2
+    return is a statement it just pushes something out
+    statement just does something
+    an expression is something
 
 - What are relational operators?
-
+    ==, =< => !=
 - What is the difference between == and = ?
+    == is a comparsion operator
+    = is giving a variable
 
 - Demonstrate the use of an if/elif/else conditional.
+    a = 1
+    b = 1
+
+    if a < b:
+        print(f'(a) is smaller than {b}')
+    elif a > b:
+        print(f'{a} is bigger than {b}')
+    else:
+        print(f'{a} equals {b}')
 
 - What does mean to have a function that "takes" an argument?
+    sometimes a function needs an input, otherwise it is not able to run
+
+    def my_function(input):
+        return input - 1
+
+    a = my_function(2)
 
 - What is a return value?
+    The value that is returned after calling a function. All other (local) variables and values of the function are lost.
+
 
 - How do you import a class to one of your programs?
+    from file import class
+
 
 - Do parameters and variables inside of a function exist outside of it?
 Why or why not?
 
+    no because anything outside stays outside
+    anything inside stays inside
+    or you can use a global to connect both inside and outside
+    file changes
+
 - What is the difference between a "fruitful" function and a void function?
 
+    default of none or contains a pass also returns to none
+
 - What does a void function always return in Python?
+    returns none
 
 - What are some of the reasons we separate our code into functions?
+    dont repeat yourself
 
 - What is the difference between the following two statements?
-    import math
+    import math.pi - import whole math module
     <and>
-    from math import *
+    from math import * pi - just directly only pi (not sugguested)
     <and>
-    import math as m
+    import math as m.pi
 
     How can you use the functions of the math module in each case?
+    sum and min and max
 
 - What is an index?
+    position of the list
 
 - How do you use slicing to produce the string "coding" from the string
 "I love coding!!!"?
+    x = 'i love coding'
+     = x[7:13]
 
 - How do you invoke the replace() method on the string
 'coding is the best' to replace all 's' characters with 'z' characters?
+    x = "coding is the best"
+    x.replace("s", "z")
 
 - What is the most important difference between a list and a string?
+    list is mutable (
+    string is immutable (collection of characters)
 
 - How do you use a delimiter other than a whitespace with the split() method?
+    "hello".split()
 
-- If two objects are identical, does that also make them equivalent?
+- If two objects are identical, does that also make them equivalent
 Why or why not? How can you prove it in code?
+    yes.
+    a is b (IS is to prove it in code)
+    a == b
 
 - What is it called when an object has more than one reference to it?
+    aliasing
 
 - How do you add an item to the dictionary first_dict using square
     brackets?
 
+    first_dict[key] = value
+    unique and immutable
+
+
 - Write an example for-loop to traverse a dictionary loop_dict and
     print out the keys and values.
 
+ for key, value in loop_dict.items():
+        print(key,value)
+
+   tuple unpacking
+
 - What are the three primary tenants of Object Oriented Programming (OOP)?
+    encapsulation - attributes and methods - dog
+    inheirtance - child class to inherited it by - pug
+    polymorphism - it creates many forms, two methods that does different things
+    depending on the object same class but different object
 
 - Why is OOP useful?
 
+    it can remodel scenarios
+    data is kept with object which allows you remodel with reality
+
 - What is a class?
+    define attribute and objects
+    its defining a blueprint
+
 
 - What are class attributes?
+    specific properties of a class
+    class attributes are defing a class as a chair and the attribute will be the legs
+    self is different from classs attributes is the instance of the class as (self)
 
 - What does it mean when an object is embedded?
 
+    creation of an object inside a object
+    object inspection
+
 - How is a method different than a function?
+    a method gets called on a object (object.method()) self is the object
+    function doesnt get called on the object. the method is part of the object its define as a class
+    and function gets called as an argument
+
 
 - What is the `__init__` method and what is it used for?
+
+    initalize the instance of a class
+    when you create a instance of an object
+    d = dog()
+    dog __init__(self)
+
+    parameter and attribute
+    attribute - how you describe instance of a class
+    parameter - "color"
+    argument - "red"
+    attribute / methods are part of a class
+
 
 - Give an example `__init__` method for a `Car` class with attributes:
 `make`, `model` and `year`.
 
+   initiazing an instance of a class set up unique values
+
 - How does a class inherit from another class?
+
+    class pug inherits from (dog)
+
+    super is the self is a reference that refer to the parent class
 
 - Explain the difference between a class attribute and an instance attribute.
 
+    class atrribute
+
 - How do you open a file in write mode? Write some example code below.
+
+    with open ("file", "w") as fout
+    fout.write(" ")
 
 - Can you have a 'try' without an 'except'? Can you have an 'except' without
 a 'try'? Bonus: How does 'else' fit into this picture?
@@ -140,26 +279,43 @@ a 'try'? Bonus: How does 'else' fit into this picture?
     except ZeroDivisionError as zde:
         print zde
 
+        catch any expection that happens youll never know which one and never go to zerodivision
+
 - Write a function that takes in the name of a file, reads the contents
 of that file word by word and places each word in a list, then prints
 the list to the console.
 
+    with open ("file", "r") as fin:
+    content = fin.read().split() list of every word in the file
+
 - Create a custom exception below.
+
+    def = MyException(Excpetion) <-- inherting expection class
+        pass
 
 - Write a very simple function that demonstrates raising the exception from the
 previous question.
 
+    a = 1
+    b = 1
+    if a != b
+       raise MyException: ("not equal")
+
 - Explain the following keywords:
-    -try
-    -except
-    -raise
-    -else
-    -finally
-    -return
-    -break
-    -continue
+    -try - when in a block compute something piece of code tht inputs a error
+    -except - if error occurs in the try block
+    -raise - you made that expection happen/ make that happen
+    -else - if it pass the try and didnt go into exception then pass
+    -finally - whether everything else doesnt work we use finally to run it
+    -return - use it for later
+    -break - continues the loop, stop the loop from function. breaks the loop
+    -continue - continues jumps back to the beginning of the loop. goes to the next x
 
 - When should you throw an exception rather than catch the exception?
+    throw means raise
+    it stops the program
+    if you catch the expection then the program cant continue
+    when do you want to throw it is when you dont want to continue when this thing happens
 
 - Demonstrate a while loop, and a for loop, that print out every other
 odd number between 1000 and 0 in a descending order:
@@ -168,7 +324,15 @@ odd number between 1000 and 0 in a descending order:
 
 - How do you create and activate a virtual environment?
 
+    python3 -m venv .env(hidden) . makes it hidden
+    source .env/bin/active
+    deactive
+
+
 - What is the variable __name__ used for?
+
+    __name__ == " __main__"
+    string refers to the name of the code
 
 - Write code that prints out all items passed to a function.
 The amount of items should be able to be different for every function call.
