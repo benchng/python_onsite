@@ -277,7 +277,7 @@ a 'try'? Bonus: How does 'else' fit into this picture?
     except Exception as exc:
         print(exc)
     except ZeroDivisionError as zde:
-        print zde
+        print(zde)
 
         catch any expection that happens youll never know which one and never go to zerodivision
 
