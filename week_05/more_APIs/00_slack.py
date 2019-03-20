@@ -24,3 +24,26 @@ Store the links in a JSON file that has the following form:
 We will continue to work with this data throughout the week, so make sure to complete it!
 
 '''
+
+from slackclient import SlackClient
+from pprint import pprint
+
+token = "xoxp-561901429298-574804874820-582472767798-199636c2c6e4d0bfca791e6f27b876f7"      # found at https://api.slack.com/web#authentication
+
+#https://codingnomads2019.slack.com/messages/CGKALBXC6
+
+sc = SlackClient(token)
+
+slack_args = {'python_resources': 'CGUDWETHR'}
+
+hist = sc.api_call('channels.history', channel=slack_args['python_resources'])
+
+pprint(hist)
+print(len(hist))
+
+slack_messages = hist['message']
+
+for i in slack_messages:
+    print(i['title'])
+    print(i['text'])
+    print(i['ts'])
