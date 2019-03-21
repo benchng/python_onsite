@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1ea744-42cd-423c-8261-1a9587c15d77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-onsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-onsite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/intro_apis/01_countries.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_04/intro_apis/01_countries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_05/more_APIs/00_slack.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_05/more_APIs/00_slack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_05/sql/00_terminal_import.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week_05/sql/00_terminal_import.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_05/sql/03_pgadmin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week_05/sql/03_pgadmin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_05/sql/04_dvdrental" beforeDir="false" afterPath="$PROJECT_DIR$/week_05/sql/04_dvdrental" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,31 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_05/more_APIs/00_slack.py">
+        <entry file="file://$PROJECT_DIR$/week_05/sql/03_pgadmin.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-              <folding>
-                <element signature="e#847#882#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_05/more_APIs/01_followbirds.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="720">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="54" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week_05/more_APIs/slack_excerise.py">
+        <entry file="file://$PROJECT_DIR$/week_05/sql/04_dvdrental">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -116,6 +103,9 @@
         <option value="$PROJECT_DIR$/week_05/more_APIs/slack_excerise.py" />
         <option value="$PROJECT_DIR$/week_05/more_APIs/00_slack.py" />
         <option value="$PROJECT_DIR$/week_05/more_APIs/01_followbirds.py" />
+        <option value="$PROJECT_DIR$/week_05/sql/00_terminal_import.txt" />
+        <option value="$PROJECT_DIR$/week_05/sql/03_pgadmin.txt" />
+        <option value="$PROJECT_DIR$/week_05/sql/04_dvdrental" />
       </list>
     </option>
   </component>
@@ -158,6 +148,12 @@
               <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
               <item name="week_05" type="462c0819:PsiDirectoryNode" />
               <item name="more_APIs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-onsite" type="462c0819:PsiDirectoryNode" />
+              <item name="week_05" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-onsite" type="b2602c69:ProjectViewProjectNode" />
@@ -373,7 +369,7 @@
     <frame x="17" y="23" width="1663" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17052375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,7 +382,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290398" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3290398" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3290398" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -428,26 +424,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_09.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/07_conditionals_loops/Exercise_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/09_functions/02_searching.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_02/09_functions/03_dog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exams/classes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -680,7 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week_05/more_APIs/00_slack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="660">
           <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
             <element signature="e#847#882#0" expanded="true" />
@@ -691,7 +667,7 @@
     <entry file="file://$PROJECT_DIR$/week_05/more_APIs/01_followbirds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -699,6 +675,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_05/sql/00_terminal_import.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_05/sql/01_command_line.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_05/sql/03_pgadmin.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_05/sql/04_dvdrental">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

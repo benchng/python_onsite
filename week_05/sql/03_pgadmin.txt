@@ -1,7 +1,7 @@
 Using pgadmin:
 
 - Create a new database named car_dealership
-- create a new blank database with the name "car_dealership"
+- create a new bluank database with the name "car_dealership"
 
 - create a new table named "users_cars" with the following fields:
     - id (auto increment)
@@ -26,20 +26,48 @@ Using pgadmin:
 - Write the SQL queries to accomplish the following: (write each of your queries below for review)
 
     - select all records from users
-
+       SELECT * FROM cars
 
     - select all records from cars where car make = "Toyota"
+
+    SELECT * FROM cars
+    WHERE make = 'bmw';
 
 
     - use a join to select the first name and car model of every user who has bought a car
 
+    SELECT users.first_name , cars.model
+    FROM cars
+    INNER JOIN users_cars
+    ON cars.id = users_cars."carID"
+    INNER JOIN users
+    ON users_cars"usersID"=users.id
+
 
     - use a join to select the first and last name of everyone who has bought a red car
 
+     SELECT users."first_name", cars."model"
+     FROM cars
+     INNER JOIN users_cars
+     ON cars.id = users_cars."carID"
+     INNER JOIN users
+     ON users_cars."userID"=users.id
+     WHERE cars.color = 'black';
 
     - use an insert statement to create a new record in each table
+     INSERT INTO cars (make, model, color, year)
+     VALUES ('honda', 's2000', 'yellow', 2008);
 
+     INSERT INTO users (first_name, last_name)
+     VALUES ('oliver', 'tang');
 
     - use sql to update a record in the "cars" table
 
+    UPDATE cars
+    SET model = '350z', color = 'pink'
+    WHERE id = 1 IS NULL;
+
     - delete one record from the database
+
+      DELETE FROM cars as c
+      WHERE c.model='350z';
