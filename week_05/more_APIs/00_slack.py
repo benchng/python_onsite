@@ -27,10 +27,10 @@ We will continue to work with this data throughout the week, so make sure to com
 
 from slackclient import SlackClient
 from pprint import pprint
+import json
+from datetime import datetime
 
 token = "xoxp-561901429298-574804874820-582472767798-199636c2c6e4d0bfca791e6f27b876f7"      # found at https://api.slack.com/web#authentication
-
-#https://codingnomads2019.slack.com/messages/CGKALBXC6
 
 sc = SlackClient(token)
 
@@ -38,12 +38,45 @@ slack_args = {'python_resources': 'CGUDWETHR'}
 
 hist = sc.api_call('channels.history', channel=slack_args['python_resources'])
 
-pprint(hist)
-print(len(hist))
+# pprint(hist)
+# print(len(hist))
+#
+# for i in hist:
+#     print(i)
 
-slack_messages = hist['message']
+slack_messages = hist['messages']
+
+
+database_list = []
+database_dict = {}
+
+# [4:9]
 
 for i in slack_messages:
-    print(i['title'])
-    print(i['text'])
-    print(i['ts'])
+   # pprint(i)
+   if 'http' in i['text']: # this text is a listed dictionary
+       pprint(i)
+       link = i['text'].strip('<>')
+       try:
+           star = i['is_starred']
+       except:
+           pass
+       read = False
+       time = float(i['ts'])
+       time = datetime.utcfromtimestamp(time).strftime('%Y-%m-%d %H:%M:%S')
+       description1 = i['attachments'][0]
+       description = description1['text']
+       database_list.append([{'link': link,
+                              'description': description,
+                              'date_added': time,
+                              'read': False,
+                              'rating': 0,
+                              }])
+       # date_added = datetime.utcfromtimestamp()
+       # print(date_added)
+
+
+pprint(database_list)
+
+with open('slack_jason_dump.txt', 'w') as f:
+   json.dump(database_list, f)
