@@ -10,6 +10,8 @@ DJANGO FORM INPUT
 4) What class do we inherit from when we want to create a Form class from an
 existing model?
 
+models.modelForm
+
 -
 
 5) Explain the namespace for apps and URL paths and why this whole thing is important
